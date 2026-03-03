@@ -31,7 +31,7 @@ Before deployment, configure your bot:
 - **Option A:** Edit `config.env` file
 - **Option B:** Use environment variables on your hosting platform
 
-### **Step 3: Choose Hosting Platform**
+Railway 
 Deploy the bot on your preferred platform.
 
 <p align="center">
